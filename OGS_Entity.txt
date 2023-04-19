@@ -1,0 +1,35 @@
+online Grocery shopping website enitites:-
+
+customers:	
+             firstname,lastname, email,
+ 
+products:    
+ 
+       id, title, description, quantities available, category,
+       reivew comments  rating,unitprice
+
+vendors
+
+      Staff; sales rep, marking rep, director,catalog
+
+orders:
+	  orderid, orderdate, customerid, amount, status,orderitems
+	  itemid, quantities,issues
+
+cart:
+	cart id, items,
+
+items:
+	itemid , quatities
+
+payments:
+	 paymentid, orderid, payamentdate, amount, status
+	 transationid ,documents
+
+deliveries: 
+          Categories,users,deliveries,grid,dashboard,feedbacks
+
+transations:
+	  transactionid,transactiondate,mode,from account,to account,amount,
+
+
