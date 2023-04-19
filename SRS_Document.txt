@@ -18,16 +18,21 @@ Team:
 
 
 Objective: 
-     It's about growing everyday business to make purchasing easier, faster and more convenient for our customers. This website will help customers plan their grocery purchases in advance, from order to delivery, so that they fit into their daily schedule in a flexible manner.
+     It's about growing everyday business to make purchasing easier, faster and more convenient for our customers. 
+     This website will help customers plan their grocery purchases in advance, from order to delivery, so that they fit into their daily schedule in a flexible manner.
 
 Scope: 
-     This system allows vender to maintain its products for adding or removing from catalog based on their availability. The customer will able to review order history and may able to replace within 24 hours. The system will be able to show live order tracking and also the amount of order has been sold lately that is in month, week or daily etc. This web service is capable of providing services in particular region. If in future the outlet gets increased then we can expand the region.
+     This system allows vender to maintain its products for adding or removing from catalog based on their availability.
+     The customer will able to review order history and may able to replace within 24 hours. 
+     The system will be able to show live order tracking and also the amount of order has been sold lately that is in month, week or daily etc. 
+     This web service is capable of providing services in particular region. If in future the outlet gets increased then we can expand the region.
 
 Functional Requirements:
 
 User Requirements:
-	Any non-registered User will be able to view different products available      for sale. Any User will be able select product to view.
-Any user can register himself on the site and get access for the site. The user can add, update or remove the items from the cart. For some reason customer didn't placed order they should get a reminder through email or SMS on their registered mobile number that they have products in their cart. 
+	Any non-registered User will be able to view different products available  for sale. Any User will be able select product to view.
+Any user can register himself on the site and get access for the site. The user can add, update or remove the items from the cart. 
+For some reason customer didn't placed order they should get a reminder through email or SMS on their registered mobile number that they have products in their cart. 
 The consumer can place order whenever they wants and they have advantage that they can choose particular time of delivery.  
 Consumer will be provided options for payment such as internet banking, UPI, cash on delivery. User can see his previous detailed order history.
 
