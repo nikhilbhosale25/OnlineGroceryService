@@ -47,9 +47,11 @@ Customer will able to feedback about the product received and  If product is not
 Vendor requirements:
    Each vendor will have their login credential which will allow them to operate according to its perspective.
 The catalog will be maintained by System.
-Staff will be able to approve or reject a request for adding or removing products from the product catalog by shoppers. Staff can raise a request to the vendor to add or remove the product from the inventory.
+Staff will be able to approve or reject a request for adding or removing products from the product catalog by shoppers. 
+Staff can raise a request to the vendor to add or remove the product from the inventory.
 The sales team can keep track availability of stocks and according to that vendor will also fill stocks.
-Vendor can get the summary of orders been placed and detailed information of customer who placed that order. They will able to get business insight by observing daily operations. 
+Vendor can get the summary of orders been placed and detailed information of customer who placed that order. 
+They will able to get business insight by observing daily operations. 
 The sales team and vendor can view the reviews of the customers, also they can reply to their doubts.
 After placing the order of product by customer the information of delivery should be automatically transferred to the delivery team.
 After the delivery, delivery person can be able to update the status as a product is delivered. 
@@ -57,28 +59,36 @@ Our client can add other vendors on the platform in future if the client wants t
 
 Non-Functional requirements: 
 Security:-
-   The customer is required to be registered. The registered customer may make an order. Every customer must access the site via the authentication process. All payments must take place under SSL. The system will safeguard customer data and confidentiality. The system saves customer information to the next order. Appropriate user firewall to protect servers against outdoor fishing, vulnerable attacks.
+   The customer is required to be registered. The registered customer may make an order. Every customer must access the site via the authentication process. All payments must take place under SSL. The system will safeguard customer data and confidentiality.
+   The system saves customer information to the next order. Appropriate user firewall to protect servers against outdoor fishing, vulnerable attacks.
 
 Reliability:-
-   The system will backup vendor and client data on a regular basis and recover it in a short period of time for the system to operate for 24 hours. Continuous updates are necessary to ensure system functionality. Ongoing administration is carried out to keep the system up and running. At peak times, the system will maintain the same user experience in managing load balancing.
+   The system will backup vendor and client data on a regular basis and recover it in a short period of time for the system to operate for 24 hours.
+   Continuous updates are necessary to ensure system functionality. Ongoing administration is carried out to keep the system up and running.
+   At peak times, the system will maintain the same user experience in managing load balancing.
 Availability:-
 	Uptime:   24* 7 available
 		 99.999%
 
 Maintainability:-
-		A Commercial database software will be used to maintain System data Persistence. IT operations team will easily monitor and configure System using Administrative tools provided by Servers. Separate environment will be maintained for system for isolation in production, testing, and development.
+		A Commercial database software will be used to maintain System data Persistence. 
+		IT operations team will easily monitor and configure System using Administrative tools provided by Servers. 
+		Separate environment will be maintained for system for isolation in production, testing, and development.
 
 Portability:-
  	PDA: Portable Device Application 
-   System will provide portable User Interface (HTML, CSS, and JS) through users will be able to access online grocery shopping site. System can be deployed to single server, multi-server, to any OS, Cloud (Azure or AWS or GCP)
+   System will provide portable User Interface (HTML, CSS, and JS) through users will be able to access online grocery shopping site. 
+   System can be deployed to single server, multi-server, to any OS, Cloud (Azure or AWS or GCP)
 
 Accessibility:-
-   Only registered customer will be able to place an order after authentication. Sales team can reject or approve orders, shopper requests based on role provided. Vendor will be able to view daily, weekly, monthly, annual business Growth through customized dashboard.
+   Only registered customer will be able to place an order after authentication. Sales team can reject or approve orders, shopper requests based on role provided.
+   Vendor will be able to view daily, weekly, monthly, annual business Growth through customized dashboard.
 
 
 
 Durability:-
-   System will retain customer shopping cart for 15 minutes even though customer loose internet connection and join again. System will maintain cart for customer.  Customer will be able to add products to the shopping cart whenever needed.
+   System will retain customer shopping cart for 15 minutes even though customer loose internet connection and join again. System will maintain cart for customer. 
+   Customer will be able to add products to the shopping cart whenever needed.
 System will implement backup and recovery for retaining business operation data and business data over time.
 
 Efficiency:-
@@ -86,14 +96,17 @@ Efficiency:-
 System will be able to manage all transactions with isolation.
 
 Modularity:-
-   System will designed and developed using reusable, independent or dependent business scenarios in the form of modules. These modules will be loosely coupled and highly cohesive. System will contain CRM, Inventory, and shopping cart, order processing, payment processing, Delivery module, membership and Roles management modules.
+   System will designed and developed using reusable, independent or dependent business scenarios in the form of modules. These modules will be loosely coupled and
+   highly cohesive. System will contain CRM, Inventory, and shopping cart, order processing, payment processing, Delivery module, membership and Roles management modules.
 	
 Scalability:-
    System will be able to provide consistent user experience to client as well as visitors irrespective of load.
 
 Safety:-
-   The website will be secure from malicious attack, fishing. This online grocery Website should protected from outside with proper firewall configuration and IT will be always kept updated with latest anti-virus software. 
-Business data will be backed up periodically to ensure safety of data using incremental back up strategy. Role based security will be applied for Application data and operations accessibility.
+   The website will be secure from malicious attack, fishing. This online grocery Website should protected from outside with proper firewall configuration and IT will
+   be always kept updated with latest anti-virus software. 
+Business data will be backed up periodically to ensure safety of data using incremental back up strategy. Role based security will be applied for Application data and
+operations accessibility.
 
 
 
