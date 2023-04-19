@@ -37,9 +37,11 @@ The consumer can place order whenever they wants and they have advantage that th
 Consumer will be provided options for payment such as internet banking, UPI, cash on delivery. User can see his previous detailed order history.
 
 Consumer will able to view all items from shopping cart. Shopping cart will show product details, quantity of selected product with price and total amount.
-Before placing the order customer can confirm or update new address where order have to be delivered. Consumer will ask to submit their payment related information. Consumer will be redirected to payment gateway for secure payment transaction. On successful payment transaction consumer will get order confirmation.
+Before placing the order customer can confirm or update new address where order have to be delivered. Consumer will ask to submit their payment related information.
+Consumer will be redirected to payment gateway for secure payment transaction. On successful payment transaction consumer will get order confirmation.
 The user can be able to track the order throughout the process.
-Customer will able to feedback about the product received and  If product is not satisfactory for the consumer then they can able to raise issue and with after proper inspection the product can be replaced and if the vendor is not having sufficient quantity of same product then the customer will get the refund.
+Customer will able to feedback about the product received and  If product is not satisfactory for the consumer then they can able to raise issue and with after proper
+inspection the product can be replaced and if the vendor is not having sufficient quantity of same product then the customer will get the refund.
 
 
 
@@ -59,7 +61,8 @@ Our client can add other vendors on the platform in future if the client wants t
 
 Non-Functional requirements: 
 Security:-
-   The customer is required to be registered. The registered customer may make an order. Every customer must access the site via the authentication process. All payments must take place under SSL. The system will safeguard customer data and confidentiality.
+   The customer is required to be registered. The registered customer may make an order. Every customer must access the site via the authentication process. All
+   payments must take place under SSL. The system will safeguard customer data and confidentiality.
    The system saves customer information to the next order. Appropriate user firewall to protect servers against outdoor fishing, vulnerable attacks.
 
 Reliability:-
@@ -87,7 +90,7 @@ Accessibility:-
 
 
 Durability:-
-   System will retain customer shopping cart for 15 minutes even though customer loose internet connection and join again. System will maintain cart for customer. 
+   System will retain customer shopping cart for 15 minutes even though customer loose internet connection and join again. System will maintain cart for customer.
    Customer will be able to add products to the shopping cart whenever needed.
 System will implement backup and recovery for retaining business operation data and business data over time.
 
