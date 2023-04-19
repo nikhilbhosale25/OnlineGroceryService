@@ -5,7 +5,7 @@
 4. Nikhil Bhosale 	233053
 5. Nikita Vyas 		233054
 6. Pradyumn Patil 	233063
-7. Pruthvi Patil 		233070
+7. Pruthvi Patil        233070
 8. Shubham Badgujar 	233092
 .
 
