@@ -1,0 +1,26 @@
+Project Name:- Online Grocery Shop
+Backlog:
+User Registration
+Login User
+Forgot Password
+Profile
+Home
+About us
+Contact us
+Product Catagories
+Offers
+Cart
+Wishlist
+Order
+Order History
+Payment Mode
+Wallet
+Account Setting
+Search
+Notifications
+Help centre
+Feedback
+Vender's Login
+Vender's Logout
+Setting
+
