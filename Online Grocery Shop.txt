@@ -8,6 +8,7 @@ Home
 About us
 Contact us
 Product Catagories
+Product Desc.
 Offers
 Cart
 Wishlist
@@ -19,6 +20,7 @@ Account Setting
 Search
 Notifications
 Help centre
+Review
 Feedback
 Vender's Login
 Vender's Logout
