@@ -9,7 +9,7 @@ remove item from cart
 Show item
 place order
 show orders 
-show orderdetails
+show order details
 raise complaint
 Cancel order
 update product
@@ -17,7 +17,7 @@ recommend product
 submit feedback
 transfer amount
 update customer personal information
-register verdor
+register vendor
 validate user
 change password
 forgot passwrod
@@ -30,4 +30,4 @@ List products
 show product details
 add item to wishlist
 remove item from wishlist
-show items availablint in wishlist
+show items availability in wishlist
